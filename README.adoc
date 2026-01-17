@@ -31,3 +31,9 @@ https://anita-editor.ahus1.de/#{repo}/05_structuring.adoc[✏️]
 
 . xref:06_sourcecode.adoc[Adding Sourcecode examples]
 https://anita-editor.ahus1.de/#{repo}/06_sourcecode.adoc[✏️]
+
+== More information about the related Udemy training course
+
+See chapter 7 of the https://www.udemy.com/course/technical-writing-with-asciidoc-and-intellij-idea[Technical Writing with AsciiDoc and IntelliJ IDEA] course on Udemy, which like the workshop dicussed above, also uses this repo to provide traning exercises. 
+
+
